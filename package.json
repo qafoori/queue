@@ -1,6 +1,6 @@
 {
   "name": "fifoer",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "An implementation of queues in TypeScript for nodejs and browser",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
